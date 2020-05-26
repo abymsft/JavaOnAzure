@@ -1,5 +1,5 @@
 # javaonazure
-### Playing around with 'Hello World' Spring Boot MVC and Azure WebApps on a Linux App Service plan
+### Playing around with a 'Hello World' Spring Boot MVC hosted on an Azure WebApps, Linux App Service plan
 
 ### Prerequisites
  - Azure subscription
