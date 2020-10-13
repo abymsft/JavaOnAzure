@@ -1,5 +1,5 @@
 # javaonazure
-### Playing around with 'Hello World' Spring Boot MVC and Azure WebApps on a Linux App Service plan
+### 'Hello World' Spring Boot MVC + Azure WebApps + Linux App Service plan
 
 ### Prerequisites
  - Azure subscription
@@ -26,3 +26,5 @@
 ```sh
 az webapp config appsettings set -g resroucegroupname -n uniqueappname --settings 'JAVA_OPTS=-javaagent:/home/site/wwwroot/applicationinsights-agent-X.X.X.jar'
 ```
+
+### 'Hello World' WebFlux + Azure WebApps + Windows Service plan (Work In progress)
